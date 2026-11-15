@@ -17,6 +17,7 @@ This chapter builds on the foundations of AI strategy, technology, data, people,
 | Article | Reusable template |
 |---|---|
 | [C1, Part 1: From AI Readiness to Agentic Transformation](articles/01_from_readiness_to_transformation.md) | [AI Transformation Evolution Map](templates/01_ai_transformation_evolution_map.md) |
+| [C1, Part 2: Start With Business Capabilities, Not AI Agents](articles/02_business_capabilities_before_agents.md) | [Business Capability Decomposition Matrix](templates/02_business_capability_decomposition_matrix.md) |
 
 New entries will be added to this table as their articles and companion templates are published.
 
