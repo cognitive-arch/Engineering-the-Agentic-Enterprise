@@ -1,6 +1,6 @@
-# Start With Business Capabilities, Not AI Agents
+# From Business Capabilities to Agentic Opportunities: A Practical Guide
 
-*Part 2 of 7 | A practical way to decide where AI reasoning belongs*
+*Part 2 of 7 | How to decompose enterprise capabilities and identify where AI agents, workflows, and traditional automation belong.*
 
 “We need a Sales Agent” is not an architecture requirement.
 
