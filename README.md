@@ -18,6 +18,7 @@ This chapter builds on the foundations of AI strategy, technology, data, people,
 |---|---|
 | [C1, Part 1: From AI Readiness to Agentic Transformation](articles/01_from_readiness_to_transformation.md) | [AI Transformation Evolution Map](templates/01_ai_transformation_evolution_map.md) |
 | [C1, Part 2: From Business Capabilities to Agentic Opportunities: A Practical Guide](articles/02_business_capabilities_before_agents.md) | [Business Capability Decomposition Matrix](templates/02_business_capability_decomposition_matrix.md) |
+| [C1, Part 3: Seven Principles for Enterprise Agentic Transformation](articles/03_seven_architecture_principles.md) | [Seven-Principle Architecture Review](templates/03_agentic_architecture_principles_checklist.md) |
 
 New entries will be added to this table as their articles and companion templates are published.
 
